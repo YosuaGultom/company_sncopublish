@@ -158,7 +158,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Our Clients Section ======= -->
-    <section id="clients" class="clients">
+    {{-- <section id="clients" class="clients">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -180,7 +180,8 @@
         </div>
 
       </div>
-    </section><!-- End Our Clients Section -->
+    </section> --}}
+    <!-- End Our Clients Section -->
 
   </main><!-- End #main -->
 @endsection
